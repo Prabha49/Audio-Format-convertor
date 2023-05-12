@@ -1,5 +1,5 @@
 
-# Audio Format COnvertor
+# Audio Format Convertor
 
 This  prjoct helps us to convert audio file .mp3 to .wav file
 
@@ -12,7 +12,7 @@ This  prjoct helps us to convert audio file .mp3 to .wav file
 
 
 ## Usage
-* Install require Python libraries (see requirements.txt)
+* Install Pydub library
 * In code change the directory path according to you source file and destination file directory path
 * Then just this code and the code automatically take cares the audio format convertion
 
